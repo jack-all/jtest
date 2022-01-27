@@ -39,6 +39,10 @@ class Test1 extends Test{
 }
 
 public class Main {
+    HashMap<Character, Integer> Value1 = new HashMap<Character, Integer>(){{
+        put('I',1);
+    }};
+    
 
 
     public static void main(String[] args) {
