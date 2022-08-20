@@ -1,2 +1,2 @@
 # jtest
-java test
+java  11 test
